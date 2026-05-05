@@ -1,0 +1,11 @@
+{
+  "name": "my-web-app-root",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "cd my-web-app && npm run dev",
+    "build": "cd my-web-app && npm run build",
+    "lint": "cd my-web-app && npm run lint",
+    "preview": "cd my-web-app && npm run preview"
+  }
+}
